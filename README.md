@@ -1,1 +1,1 @@
-# aliEsmaelFard-Stock-price-prediction-using-the-RNN-Ml-Model
+#Stock-price-prediction-using-the-RNN-Ml-Model
